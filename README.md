@@ -44,3 +44,7 @@ python3 atividade1_HelloWorld/HelloWorldpy.py
 ## 🎓 Contexto
 
 Disciplina cursada na **Fatec Mauá** — Tecnologia em Desenvolvimento de Software Multiplataforma.
+
+## Autora
+
+**Helen Aclina** · [@HelenAclina](https://github.com/HelenAclina)
